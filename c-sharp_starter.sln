@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.810.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp_starter", "c-sharp_starter\c-sharp_starter.csproj", "{FDEE7449-65A2-4509-8C78-E61A4F52288A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priority", "..\..\Desktop\[ITVDN] C# 8.0 Стартовый (2021)\Дополнительные материалы\012_Арифметические_операторы\ArithmeticOperations\Priority\Priority.csproj", "{EF1CA9E3-78E2-4F72-AA59-2EFB9FC7DB5C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -17,10 +15,6 @@ Global
 		{FDEE7449-65A2-4509-8C78-E61A4F52288A}.Debug|anycpu.Build.0 = Debug|anycpu
 		{FDEE7449-65A2-4509-8C78-E61A4F52288A}.Release|anycpu.ActiveCfg = Release|anycpu
 		{FDEE7449-65A2-4509-8C78-E61A4F52288A}.Release|anycpu.Build.0 = Release|anycpu
-		{EF1CA9E3-78E2-4F72-AA59-2EFB9FC7DB5C}.Debug|anycpu.ActiveCfg = Debug|Any CPU
-		{EF1CA9E3-78E2-4F72-AA59-2EFB9FC7DB5C}.Debug|anycpu.Build.0 = Debug|Any CPU
-		{EF1CA9E3-78E2-4F72-AA59-2EFB9FC7DB5C}.Release|anycpu.ActiveCfg = Release|Any CPU
-		{EF1CA9E3-78E2-4F72-AA59-2EFB9FC7DB5C}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
